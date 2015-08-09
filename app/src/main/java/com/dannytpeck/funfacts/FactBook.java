@@ -1,6 +1,7 @@
 package com.dannytpeck.funfacts;
 
 import java.util.Random;
+
 /*
  * Created by Danny on 8/8/2015.
  */
